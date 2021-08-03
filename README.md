@@ -1,12 +1,10 @@
-# Product/Engineering proposal template
-Here's the proposal template that I've used at [Ravelin](https://www.ravelin.com) and [Monzo](https://monzo.com).  
-It's useful as a general purpose template for writing proposals for product and engineering. It's been used from extremely technical engineering proposals, to broad product strategy.
+# Project proposal
+
 
 ---
 
 ### What problem are you trying to solve?
-* _Introduce the problem statement here. This might be well-defined ('we need to tweak the parameter of a rule from X to Y to help reduce a certain type of abuse'), or more fuzzy ('we need to invest more in paying back technical debt')._
-* _Focus on the underlying problem that needs to be solved, as opposed to jumping to how you will solve it._
+Detect and classify the product in a put in trally
 
 ### Why should we solve it?
 * _Why is this an important problem for us to solve?_  
